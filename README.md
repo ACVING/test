@@ -4,7 +4,6 @@
 * 基于二维码生成项目，制作了人机交互使用的GUI界面
 
 ## 部署
-
 ### 第一步
 * 1.1.1 通过code下载压缩包 （推荐）
 * 1.1.2 通过git克隆项目到本地（可选）
@@ -24,3 +23,7 @@ conda create --prefix 【envs地址】 python=3.10
 pip install Pillow>=8.1.1
 ```
 1.2 再次启动start.bat
+
+## 演示
+![屏幕截图 2025-05-17 161657](https://github.com/user-attachments/assets/108d3229-670d-422d-afea-362aa13afd07)
+

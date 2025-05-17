@@ -26,4 +26,6 @@ pip install Pillow>=8.1.1
 
 ## 演示
 ![屏幕截图 2025-05-17 161657](https://github.com/user-attachments/assets/108d3229-670d-422d-afea-362aa13afd07)
+![屏幕截图 2025-05-17 161704](https://github.com/user-attachments/assets/4d98a2cc-6829-4983-b795-111823ff294c)
+![屏幕截图 2025-05-17 161709](https://github.com/user-attachments/assets/70438288-4f33-451a-a30b-0ca8cf3884cc)
 

@@ -13,9 +13,14 @@
 * 1.1 复制envs地址,win+r打开cmd输入
 ```markdown
 conda create --prefix 【envs地址】 python=3.10
-pip install Pillow>=8.1.1
 ```
 ### 第三步
 * 1.1 用记事本打开start.bat
 * 1.2 并手动配置前两行路径
 * 1.3 启动start.bat文件
+### 第四步
+1.1 启动bat报错后输入
+```markdown
+pip install Pillow>=8.1.1
+```
+1.2 再次启动start.bat
